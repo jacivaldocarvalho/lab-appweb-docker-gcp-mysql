@@ -1,4 +1,4 @@
-# Projeto Prático de Docker Dwarm com Microserviços
+# Projeto Prático de Docker Swarm com Microserviços
 
 ## Objetivo
 Criar um cluster docker com uma aplicação web em php que consome um banco de dados mysql. O projeto foi reaizado no Google Cloud Platform.
